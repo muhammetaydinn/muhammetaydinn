@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Muhammet</h1>
+<h3 align="left">A junior developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Bootcamp Acceleration Program- 2022](https://app.patika.dev/paths/bootcamp-hizlandirma-programi)
 
