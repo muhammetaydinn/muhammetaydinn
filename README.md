@@ -27,7 +27,13 @@ MUHAMMET AYDIN - README v3.1 ("Hacker Terminal" + Positive Stats)
 
 ### 👨‍💻 About Me
 
-I am a proactive problem-solver specializing in building scalable, end-to-end software solutions. With a strong foundation in **software architecture** and **event-driven systems**, my passion lies in transforming complex challenges into elegant, high-performance applications. I thrive on clean code, continuous improvement, and driving technical excellence within an Agile team.
+I am a full-stack and mobile software engineer with hands-on experience in developing and scaling real-world applications using Laravel, Spring Boot, React Native, and Flutter. My development journey is rooted in product-oriented thinking, where clean code meets business value.
+
+I’ve worked on CRM systems, fintech tools, and e-commerce platforms—contributing across the entire stack from RESTful APIs to responsive mobile interfaces. I integrate modern DevOps tools like Docker and Kubernetes into my development workflow to ensure robust deployment and scalability.
+
+Beyond the code, I’ve participated in innovation hubs such as ALT+TAB Incubation Center and Google Developer Student Clubs, where I co-developed side projects, mentored peers, and stayed on the pulse of emerging technologies.
+
+My mission is to build software that doesn’t just work, but delights. I'm ready to take part in agile teams where technology meets meaningful impact
 
 ---
 
