@@ -1,6 +1,6 @@
 ### About Me
 
-I’ve worked on CRM systems, fintech tools, and e-commerce platforms—contributing across the entire stack from RESTful APIs to responsive mobile interfaces. I integrate modern DevOps tools like Docker and Kubernetes into my development workflow to ensure robust deployment and scalability.
+I’ve worked on CRM systems, fintech tools, and e-commerce platforms—contributing across the entire stack from RESTful APIs to responsive mobile interfaces.
 
 My mission is to build software that doesn’t just work, but delights. I'm ready to take part in agile teams where technology meets meaningful impact
 
